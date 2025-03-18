@@ -2,4 +2,4 @@
 
 Mi actividad del challenge amigo secreto
 
-![alt text](image.png)
+![alt text](./assets/image.png)
